@@ -279,7 +279,7 @@ class MainBenchmarkClient {
             document.body.append(this._developerModeContainer);
         }
 
-        if (params.startAutomatically)
+        if (true)
             this.start();
     }
 
